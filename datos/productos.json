@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "1",
+        "nombre": "Humitas",
+        "categoria": "Comida",
+        "precio": 1.5,
+        "disponible": true,
+        "stock": 14
+    },
+    {
+        "codigo": "2",
+        "nombre": "Jugo de tomate",
+        "categoria": "Bebida",
+        "precio": 1.5,
+        "disponible": true,
+        "stock": 19
+    },
+    {
+        "codigo": "3",
+        "nombre": "Repe Lojano",
+        "categoria": "Comida",
+        "precio": 1.25,
+        "disponible": true,
+        "stock": 30
+    }
+]

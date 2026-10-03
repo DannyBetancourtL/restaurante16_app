@@ -1,0 +1,23 @@
+[
+    {
+        "identificacion": "1101234567",
+        "nombre": "Danny Betancourt",
+        "correo": "danny@correo.com",
+        "contrasena": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "1107654321",
+        "nombre": "Carlos Pérez",
+        "correo": "carlos@correo.com",
+        "contrasena": "1234",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "1123456789",
+        "nombre": "Maria Jaramillo",
+        "correo": "maria@correo.com",
+        "contrasena": "1234",
+        "rol": "Cliente"
+    }
+]
